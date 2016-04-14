@@ -6,4 +6,4 @@ Awesome sauce by Cahlan and Zach.
 
 ## Section 2
 
-Cool things.
+Cool things by someone cool.
