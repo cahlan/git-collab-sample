@@ -2,7 +2,7 @@
 
 ## Section 1
 
-Awesome sauce.
+Awesome sauce by Zach.
 
 ## Section 2
 
