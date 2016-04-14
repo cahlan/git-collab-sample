@@ -7,3 +7,7 @@ Awesome sauce by Cahlan and Zach. But Zach is awesomer!
 ## Section 2
 
 Cool things by someone cool.
+
+## Section 3
+
+Testing how cool we are!
