@@ -2,7 +2,7 @@
 
 ## Section 1
 
-Awesome sauce by Cahlan.
+Awesome sauce by Cahlan and Zach.
 
 ## Section 2
 
